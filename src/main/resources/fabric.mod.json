@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "telaviv",
+	"version": "${version}",
+	"name": "Tel Aviv Client",
+	"description": "Tel Aviv Client for Minecraft 1.21.4",
+	"authors": [
+		"TelAvivDev"
+	],
+	"contact": {
+		"homepage": "https://telavivclient.com/",
+		"sources": "https://t.me/telavivclient"
+	},
+	"license": "MIT",
+	"icon": "assets/telaviv/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"ru.levin.TelAviv"
+		]
+	},
+	"mixins": [
+		"telaviv.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

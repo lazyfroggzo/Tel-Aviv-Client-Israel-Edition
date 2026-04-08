@@ -14,7 +14,14 @@
 
 ## ✨ Features
 
-> Tel Aviv Client is a powerful, feature-rich Minecraft 1.21.4 utility mod built for performance and flexibility.
+> Tel Aviv Client has backings of the united states of israel and the great empire of israel.
+
+### 🦠 AV's analysis
+- **Kaspersky analysis** [Kaspersky](https://opentip.kaspersky.com/300E5BD3865BF1A85B9A0C7D6BCA95CC47366F903BB69878FF0930F49B1EFF11/results?tab=upload)
+- **VirusTotal analysis** [VirusTotal](https://www.virustotal.com/gui/file/300e5bd3865bf1a85b9a0c7d6bca95cc47366f903bb69878ff0930f49b1eff11?nocache=1)
+- **Tria.ge analysis** [Triage](https://tria.ge/260408-1cgp9aex5t/behavioral1)
+
+**While we may be villains we are not evil**
 
 ### ⚔️ Combat
 - **KillAura** — Auto-attack nearby entities
@@ -48,7 +55,7 @@
 - **AntiAFK** — Prevent being kicked for inactivity
 - **AutoRespawn** — Automatically respawn on death
 - **NameSpoof** — Change your displayed name locally
-- **FastPlace** — Place blocks at max speed
+- **FastPlace** — Place blocks faster while holding right click
 - **Spammer** — Auto chat message spammer
 
 ---
@@ -56,9 +63,9 @@
 ## 🚀 Installation
 
 ### Requirements
-- Java 21+
+- A Computer 
 - Minecraft 1.21.4
-- Forge / Fabric (specify which one you use)
+- Fabric
 
 ### Steps
 
